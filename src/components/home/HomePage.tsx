@@ -27,11 +27,11 @@ export function HomePage({ data }: { data: SiteData }) {
       <section ref={heroRef} className="relative isolate min-h-[100svh] overflow-hidden bg-navy-deep">
         <motion.div style={{ y }} className="absolute inset-0">
           <Image
-            src={images.cocheRed}
+            src={images.hero}
             alt="Conducción con Autoescola Filló"
             fill
             priority
-            className="object-cover object-[center_30%]"
+            className="object-cover object-center"
           />
         </motion.div>
         <div className="absolute inset-0 bg-gradient-to-b from-navy-deep/75 via-navy/55 to-navy-deep" />
