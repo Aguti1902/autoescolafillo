@@ -1,0 +1,12 @@
+[
+  { "id": "hero", "url": "/hero.jpg", "label": "Hero principal", "slot": "hero" },
+  { "id": "permisoB", "url": "/permiso-b.jpg", "label": "Permiso B", "slot": "permisoB" },
+  { "id": "permisoMoto", "url": "/permiso-moto.jpg", "label": "Permiso moto", "slot": "permisoMoto" },
+  { "id": "permisoAm", "url": "/permiso-am.jpg", "label": "Permiso AM", "slot": "permisoAm" },
+  { "id": "nosotros", "url": "/nosotros.jpg", "label": "Nosotros", "slot": "nosotros" },
+  { "id": "practica", "url": "/practica.jpg", "label": "Práctica", "slot": "practica" },
+  { "id": "equipo", "url": "/equipo.jpg", "label": "Equipo", "slot": "equipo" },
+  { "id": "motoHero", "url": "/permiso-moto.jpg", "label": "Moto hero", "slot": "motoHero" },
+  { "id": "oficina", "url": "/oficina.jpg", "label": "Oficina", "slot": "oficina" },
+  { "id": "cocheRed", "url": "/coche-red.jpg", "label": "Coche rojo", "slot": "cocheRed" }
+]

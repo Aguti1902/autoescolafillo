@@ -1,0 +1,239 @@
+{
+  "site": {
+    "name": "Autoescola Filló",
+    "tagline": "TARRAGONA",
+    "phone": "977234231",
+    "phoneDisplay": "97 723 42 31",
+    "email": "fillo@aefillo.com",
+    "address": "Rambla Nova 32 2n 1a, 43004, Tarragona, España",
+    "hours": "Lunes a Viernes de 10 a 1 y de 4 a 8, viernes por la tarde cerrado",
+    "yearsExperience": 60,
+    "studentsApproved": 10000,
+    "founded": 1963,
+    "aulaVirtualUrl": "https://www.tuautoescuela.es/aula-virtual",
+    "midgtAndroid": "https://play.google.com/store/apps/details?id=com.dgt.midgt&hl=es_419&gl=US",
+    "midgtIos": "https://apps.apple.com/es/app/midgt/id1463054197",
+    "dgtResultados": "https://sedeclave.dgt.gob.es/WEB_NOTP_CONSULTA/consultaNota.faces",
+    "dgtEstadoCarnet": "https://sedeapl.dgt.gob.es/WEB_EST_PERSEO/",
+    "facebook": "https://www.facebook.com/autoescolafillo/?locale=es_ES",
+    "instagram": "https://www.instagram.com/autoescolafillo/?hl=es",
+    "logo": "/logo.png"
+  },
+  "images": {
+    "hero": "/hero.jpg",
+    "permisoB": "/permiso-b.jpg",
+    "permisoMoto": "/permiso-moto.jpg",
+    "permisoAm": "/permiso-am.jpg",
+    "nosotros": "/nosotros.jpg",
+    "practica": "/practica.jpg",
+    "equipo": "/equipo.jpg",
+    "motoHero": "/permiso-moto.jpg",
+    "oficina": "/oficina.jpg",
+    "cocheRed": "/coche-red.jpg",
+    "gallery": [
+      "/practica.jpg",
+      "/equipo.jpg",
+      "/permiso-moto.jpg",
+      "/oficina.jpg",
+      "/nosotros.jpg",
+      "/coche-red.jpg"
+    ]
+  },
+  "home": {
+    "heroTitle": "Autoescola Filló TARRAGONA",
+    "heroSubtitle": "TARRAGONA",
+    "heroText": "Nos apasiona enseñar a conducir de manera segura y responsable. Nuestro equipo de profesores altamente capacitados está comprometido con tu éxito en la obtención de tu permiso de conducir.",
+    "heroCta": "Contactar ahora",
+    "pillars": [
+      {
+        "title": "Precio asequible",
+        "text": "Nuestras tarifas son asequibles para cualquier bolsillo. Nuestro objetivo es la felicidad de los alumnos."
+      },
+      {
+        "title": "Conducción segura",
+        "text": "Nuestros profesores son profesionales altamente cualificados con muchos años de esperiéncia."
+      },
+      {
+        "title": "La mejor formación",
+        "text": "Utilizamos los mejores métodos de enseñanza para que nuestros alumnos aprueben a la primera."
+      }
+    ],
+    "aboutEyebrow": "Quienes somos",
+    "aboutTitle": "sobre Nosotros",
+    "aboutText": "Bienvenido a Autoescola Filló, una empresa familiar que lleva formando conductores desde 1963. Con tres generaciones de dedicación, nos enorgullece ser más que una autoescuela; somos tu familia en la carretera. Contamos con los mejores profesionales del sector, comprometidos a ofrecerte una experiencia de aprendizaje de conducción de la más alta calidad.",
+    "aboutQuote": "La tradición se une a la innovación, y la experiencia se transforma en aprendizaje.",
+    "servicesEyebrow": "¿QUÉ HACEMOS POR TI?",
+    "servicesTitle": "Descubre nuestros servicios",
+    "servicesText": "En Autoescola Filló no solo te proporcionamos las habilidades técnicas, sino que te acompañamos en cada etapa del proceso. Nuestra experiencia de más de 60 años se traduce en una formación de calidad y una conducción segura para toda la vida.",
+    "toolsEyebrow": "herramientas",
+    "toolsTitle": "Accesos directos",
+    "toolsText": "Te lo ponemos fácil, aquí tienes las herramientas más útiles de la DGT para que consultes resultados de exámenes, los puntos de tu carnet de conducir o obtengas tu permiso digitalizado.",
+    "midgtText": "Tu carnet de conducir a un solo click, descargáte la app de MiDGT para disponer de él donde o cuando sea.",
+    "aulaEyebrow": "¿ERES ALUMNO?",
+    "aulaText": "Descubre nuestra aula virtual. Aquí podrás acceder a recursos educativos, materiales de estudio y realizar tests interactivas para fortalecer tus conocimientos sobre la conducción. ¡Bienvenido a bordo!",
+    "contactEyebrow": "Información y contacto",
+    "contactTitle": "Contacta con nosotros",
+    "contactText": "Si tienes alguna pregunta, comentario o necesitas más información, no dudes en contactarnos. Estamos aquí para ayudarte en tu camino hacia la obtención de tu permiso de conducir. Puedes comunicarte con nosotros de las siguientes maneras"
+  },
+  "nosotros": {
+    "eyebrow": "Quienes somos",
+    "title": "Nuestros inicios",
+    "intro": "Fundada en 1963 por Don Vicente Filló Peiret, somos la institución de formación vial más antigua de Tarragona. Con seis décadas de experiencia, hemos sido testigos del crecimiento exponencial de nuestra familia de conductores, marcando la diferencia con un servicio profesional y un trato familiar.",
+    "family": "Desde temprana edad, los hijos de Don Vicente, Carlos y Paloma Filló, se sumaron a la misión de la autoescuela. Actualmente, Carlos dirige el equipo, mientras que la tercera generación, representada por Sara y Carlos Filló, infunde juventud y dinamismo desde la oficina.",
+    "quote": "Nuestra motivación más importante es satisfacer las expectativas de nuestros clientes, quienes nos inspiran a crecer y superarnos constantemente como empresa y profesionales.",
+    "teoriaTitle": "Formación teórica",
+    "teoriaText": "En la actualidad, los métodos de enseñanza son muy diferentes a los de los primeros años de la autoescuela, donde los profesores iban a impartir las clases teóricas por los diferentes pueblos de la comarca. La autoescuela ha sabido adaptarse a la continua revolución tecnológica que vivimos y a las nuevas necesidades de los alumnos, ofreciendo una plataforma virtual con todas las clases teóricas y preguntas de test de la DGT, además de ofrecer clases teóricas presenciales individuales y totalmente personalizadas de forma gratuita.",
+    "practicaTitle": "Formación práctica",
+    "practicaText": "En el caso de la formación práctica, a cada alumno se le asigna un profesor que sigue toda su evolución de principio a fin, lo que permite un trato personal y marca diferencias respecto a otros métodos de enseñanza. Gracias a un número de aprobados a la primera mucho superior a la media de las demás autoescuelas de Tarragona, cuando el alumno está preparado para realizar el examen, puede hacerlo en un periodo de tiempo muy breve, haciendo que obtener el carnet sea una experiencia agradable.",
+    "closingTitle": "Autoescola Filló",
+    "closingText": "Somos un referente en Tarragona, no solo por nuestros 60 años de experiencia, sino también por nuestra capacidad de adaptación y dedicación hacia nuestros alumnos. Miramos hacia el futuro con optimismo y determinación, comprometidos a formar conductores competentes y responsables."
+  },
+  "permisos": {
+    "eyebrow": "¿QUÉ HACEMOS POR TI?",
+    "title": "Descubre nuestros servicios",
+    "text": "En Autoescola Filló no solo te proporcionamos las habilidades técnicas, sino que te acompañamos en cada etapa del proceso. Nuestra experiencia de más de 60 años se traduce en una formación de calidad y una conducción segura para toda la vida.",
+    "items": [
+      {
+        "id": "b",
+        "title": "Permiso B",
+        "description": "Aprende a conducir con confianza y seguridad, acompañado por nuestros expertos.",
+        "cta": "Quiero el carnet de coche",
+        "href": "/carnet-de-coche-b",
+        "imageKey": "permisoB"
+      },
+      {
+        "id": "a",
+        "title": "Permiso A1/A2",
+        "description": "Siente la libertad sobre dos ruedas con una enseñanza personalizada para cada uno de nuestros clientes.",
+        "cta": "Quiero el carnet de moto",
+        "href": "/carnet-de-moto-a1-a2",
+        "imageKey": "permisoMoto"
+      },
+      {
+        "id": "am",
+        "title": "Permiso AM",
+        "description": "Inicia tu camino en las calles con las habilidades y la confianza que brindamos a nuestros alumnos.",
+        "cta": "Quiero el carnet de ciclomotor",
+        "href": "/carnet-de-ciclomotor-am",
+        "imageKey": "permisoAm"
+      }
+    ]
+  },
+  "tariffs": {
+    "coche": {
+      "featured": {
+        "name": "Pack 750€",
+        "price": 750,
+        "oldPrice": null,
+        "features": ["Matricula y tramitación", "Derecho de exámen teórico y práctico", "20 prácticas"]
+      },
+      "packs": [
+        {
+          "id": "pack-380",
+          "name": "Pack 380€",
+          "price": 380,
+          "description": "Con 5 prácticas y exámenes incluídos"
+        },
+        {
+          "id": "pack-510",
+          "name": "Pack 510€",
+          "price": 510,
+          "description": "Con 12 prácticas y exámenes incluídos"
+        },
+        {
+          "id": "pack-consultar",
+          "name": "Consultar",
+          "price": null,
+          "description": "Entre 20 y 30 prácticas, y exámenes incluídos"
+        }
+      ]
+    },
+    "moto": {
+      "price": 330,
+      "oldPrice": 350,
+      "label": "Sácate el carnet de moto por solo",
+      "features": ["Te programamos las prácticas y exámenes", "Teórico de manera fácil y rápida", "Sin esperas"]
+    },
+    "am": {
+      "price": 180,
+      "oldPrice": 200,
+      "label": "Sácate el carnet de CICLOmotoR por solo",
+      "features": ["Simulación de examen práctico", "Nos adaptamos a tus horarios"]
+    }
+  },
+  "carnetB": {
+    "title": "CARNET DE COCHE (B)",
+    "headline": "¡Sacarse el carnet de coche nunca había sido tan fácil!",
+    "text": "¡Bienvenido al emocionante mundo de la conducción! En Autoescola Filló, hacemos que el proceso de obtener tu carnet de coche (B) sea más sencillo y emocionante que nunca. ¡Descubre una experiencia de aprendizaje única donde la seguridad y la diversión van de la mano!",
+    "ageNote": "¿Tienes 17 años? Ya puedes realizar el examen teórico (tres meses antes de los 18).",
+    "method": "Creemos que tener el mismo profesor de principio a fin es la mejor manera de aprender (y la más rápida), por esta razón, realizarás las clases prácticas siempre con el mismo profe y vehículo. Más de 60 años de experiencia avalan nuestro método."
+  },
+  "carnetMoto": {
+    "title": "CARNET DE MOTO (A1/A2)",
+    "headline": "Moteros, esta es vuestra autoescuela.",
+    "text": "¡Prepárate para sentir la libertad sobre dos ruedas! En Autoescola Filló, hacemos que obtener tu carnet de moto sea una experiencia emocionante y accesible. Descubre la adrenalina de la conducción segura con la guía de nuestros expertos. ¡Tu viaje comienza aquí!",
+    "carlos": "Carlos Filló, tu futuro profesor de moto y director de la autoescuela es un fanático de las motos. Empezó a los 10 años con Motocross y cuando obtuvo el permiso de conducir pasó a la disciplina del Enduro. Aprende de los skills y pasión de un auténtico profesional de las motos."
+  },
+  "carnetAm": {
+    "title": "CARNET DE CICLOMOTOR (AM)",
+    "text": "¡Prepárate para la aventura sobre dos ruedas más ligera! En Autoescola Filló, obtener tu carnet de ciclomotor es el primer paso hacia la independencia en la carretera. Descubre la comodidad y la diversión de conducir con nosotros. ¡Tu viaje comienza aquí, con la libertad a la vuelta de cada esquina!",
+    "age": "Si eres mayor de 15 años puedes sacarte este carnet y conducir ciclomotores de 2 y 3 ruedas de hasta 50cc y cuadriciclos ligeros.",
+    "exam": "Es el carnet más rápido de todos y sólo necesitarás realizar un examen teórico específico y un exámen práctico en circuito cerrado."
+  },
+  "contacto": {
+    "eyebrow": "contáctanos",
+    "title": "Habla con nosotros",
+    "text": "Estamos aquí para responder a todas tus preguntas y proporcionarte la información que necesitas. No dudes en ponerte en contacto con nosotros:",
+    "visitTitle": "Visítanos",
+    "visitText": "Si prefieres el contacto en persona, estaremos encantados de recibirte en nuestra autoescuela. ¡Te esperamos para comenzar juntos tu viaje hacia la conducción segura!",
+    "formTitle": "Formulario de Contacto",
+    "formText": "¿Tienes alguna pregunta o comentario? Completa nuestro formulario y te responderemos lo antes posible."
+  },
+  "faq": [
+    {
+      "q": "¿Cuánto tiempo se tarda en obtener el carnet de conducir?",
+      "a": "El tiempo varía según el tipo de carnet y tu progreso personal. Nuestros profesores te guiarán para que aprendas a tu propio ritmo. Desde el momento en el que te matrículas a la Autoescuela, tienes un año para presentarte al examen teórico (sin el pago de ninguna cuota adicional). Si por cualquier causa se supera el plazo del año pagando un suplemento se puede alargar un año más. Una vez aprobada la teórica tienes un plazo de dos años desde el día que realizaste el examen para aprobar el examen práctico."
+    },
+    {
+      "q": "¿Cuáles son los requisitos para matricularme?",
+      "a": "Para poder presentarte a los exámenes es necesario disponer de DNI/NIE en vigor y la edad mínima requerida para cada carnet: Permiso B y A2: 18 años. Permiso A1: 16 años. Permiso AM: 15 años. En el caso del carnet de coche, se puede realizar el examen teórico tres meses antes de cumplir los 18 años."
+    },
+    {
+      "q": "¿Cómo puedo pagar las clases?",
+      "a": "Aceptamos varios métodos de pago, incluyendo el efectivo y la transferencia bancaria."
+    },
+    {
+      "q": "¿Se ofrecen clases de reciclaje para conductores con experiencia?",
+      "a": "Sí, contamos con programas de reciclaje y actualización para conductores con experiencia."
+    },
+    {
+      "q": "¿Cuánto tiempo es válido el permiso provisional?",
+      "a": "La validez del permiso provisional tiene una validez de 3 meses en España, y siempre debe de ir acompañado de un documento oficial con foto. Consulta con nosotros para obtener información más precisa."
+    },
+    {
+      "q": "¿Qué vehículos utilizan para las prácticas de conducción?",
+      "a": "Contamos con una flota de vehículos seguros y modernos para las prácticas, adaptados a los diferentes tipos de carnets. Pregúntanos en la autoescuela y te enseñamos con qué vas a practicar según el permiso que elijas."
+    },
+    {
+      "q": "¿Qué pasa si suspendo el examen práctico?",
+      "a": "Nuestros profesores trabajarán contigo para identificar áreas de mejora y te proporcionarán el apoyo necesario para superar el examen en tu próximo intento."
+    },
+    {
+      "q": "¿Puedo cambiar mi horario de clases prácticas?",
+      "a": "Sí, podemos ajustar el horario de las clases prácticas según tu disponibilidad. Comunica tus necesidades a nuestro equipo."
+    },
+    {
+      "q": "¿Puedo realizar el pago en cuotas?",
+      "a": "Sí, ofrecemos planes de pago flexibles. Comunícate con nuestro equipo administrativo para ver las opciones disponibles."
+    },
+    {
+      "q": "¿Cuántas prácticas tengo que realizar para presentarme al examen práctico?",
+      "a": "No hay un número de prácticas mínimo para presentarse al examen, depende del progreso y necesidades de cada alumno. Nuestros profesores te asesorarán en todo momento sobre tu evolución."
+    }
+  ],
+  "legal": {
+    "avisoLegal": "Identificación y Titularidad\n\nEn cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico, el Titular expone sus datos identificativos:\n\nTitular: Autoescola Filló SL.\nNIF: B43327618\nDomicilio: Rambla Nova 32 2n 1a, 43004, Tarragona – España.\nCorreo electrónico: fillo@aefillo.com\nTeléfono de contacto: 977234231\nSitio Web: https://autoescolafillo.com\n\nCondiciones de Uso\n\nLa utilización del Sitio Web le otorga la condición de Usuario, e implica la aceptación completa de todas las cláusulas y condiciones de uso incluidas en las páginas: Aviso Legal, Política de Privacidad y Política de Cookies.\n\nSi no estuviera conforme con todas y cada una de estas cláusulas y condiciones absténgase de utilizar el Sitio Web.\n\nEl acceso al Sitio Web no supone, en modo alguno, el inicio de una relación comercial con el Titular.\n\nA través del Sitio Web, el Titular le facilita el acceso y la utilización de diversos contenidos que el Titular y/o sus colaboradores han publicado por medio de Internet.\n\nA tal efecto, está obligado y comprometido a NO utilizar cualquiera de los contenidos del Sitio Web con fines o efectos ilícitos, prohibidos en este Aviso Legal o por la legislación vigente, lesivos de los derechos e intereses de terceros, o que de cualquier forma puedan dañar, inutilizar, sobrecargar, deteriorar o impedir la normal utilización de los contenidos, los equipos informáticos o los documentos, archivos y toda clase de contenidos almacenados en cualquier equipo informático propios o contratados por el Titular, de otros usuarios o de cualquier usuario de Internet.\n\nMedidas de seguridad\n\nLos datos personales que facilite al Titular pueden ser almacenados en bases de datos automatizadas o no, cuya titularidad corresponde en exclusiva al Titular, que asume todas las medidas de índole técnica, organizativa y de seguridad que garantizan la confidencialidad, integridad y calidad de la información contenida en las mismas de acuerdo con lo establecido en la normativa vigente en protección de datos.\n\nContenidos\n\nEl Titular ha obtenido la información, el contenido multimedia y los materiales incluidos en el Sitio Web de fuentes que considera fiables, pero no garantiza que sea exacta, completa o actualizada. El Titular declina expresamente cualquier responsabilidad por error u omisión en la información contenida en las páginas del Sitio Web.\n\nPropiedad intelectual e industrial\n\nTodos los derechos están reservados.\n\nCopyright © Autoescola Filló. Todos los derechos reservados.",
+    "privacidad": "Política de Privacidad\n\nAutoescola Filló SL. (en adelante, el Titular) informa a los usuarios del sitio web autoescolafillo.com sobre su política respecto del tratamiento y protección de los datos de carácter personal de los usuarios y clientes que puedan ser recabados por la navegación o contratación de servicios a través de su sitio web.\n\nResponsable del tratamiento\nTitular: Autoescola Filló SL.\nNIF: B43327618\nDomicilio: Rambla Nova 32 2n 1a, 43004, Tarragona – España.\nCorreo electrónico: fillo@aefillo.com\nTeléfono: 977234231\n\nFinalidad\nLos datos personales facilitados a través de formularios de contacto, chat o solicitudes de información se utilizarán para atender consultas, gestionar matrículas e informarle sobre los servicios de la autoescuela.\n\nLegitimación\nLa base legal es el consentimiento del interesado y, en su caso, la ejecución de medidas precontractuales o contractuales.\n\nConservación\nLos datos se conservarán mientras sea necesario para la finalidad indicada y durante los plazos legalmente exigibles.\n\nDerechos\nPuede ejercer sus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a fillo@aefillo.com.\n\nTambién puede presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es).",
+    "cookies": "Política de Cookies\n\nEste sitio web utiliza cookies propias y de terceros para mejorar la experiencia de navegación, analizar el uso del sitio y, en su caso, mostrar contenido relevante.\n\n¿Qué son las cookies?\nLas cookies son pequeños archivos de texto que se almacenan en su dispositivo cuando visita un sitio web.\n\nTipos de cookies utilizadas\n- Cookies técnicas: necesarias para el funcionamiento del sitio.\n- Cookies de análisis: permiten medir el tráfico y el uso de las páginas.\n- Cookies de preferencias: recuerdan opciones del usuario.\n\nGestión del consentimiento\nPuede aceptar, rechazar o configurar las cookies desde el banner de consentimiento o desde la configuración de su navegador.\n\nMás información\nPara cualquier consulta sobre esta política puede contactar con fillo@aefillo.com."
+  }
+}
